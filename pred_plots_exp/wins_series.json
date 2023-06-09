@@ -1,0 +1,102 @@
+{
+  "1": {
+    "wins": 94,
+    "draws": 39,
+    "losses": 29
+  },
+  "2": {
+    "wins": 97,
+    "draws": 31,
+    "losses": 34
+  },
+  "3": {
+    "wins": 60,
+    "draws": 7,
+    "losses": 95
+  },
+  "4": {
+    "wins": 59,
+    "draws": 7,
+    "losses": 96
+  },
+  "5": {
+    "wins": 52,
+    "draws": 44,
+    "losses": 66
+  },
+  "6": {
+    "wins": 111,
+    "draws": 18,
+    "losses": 33
+  },
+  "7": {
+    "wins": 61,
+    "draws": 20,
+    "losses": 81
+  },
+  "8": {
+    "wins": 75,
+    "draws": 10,
+    "losses": 77
+  },
+  "9": {
+    "wins": 80,
+    "draws": 7,
+    "losses": 75
+  },
+  "10": {
+    "wins": 101,
+    "draws": 16,
+    "losses": 45
+  },
+  "11": {
+    "wins": 62,
+    "draws": 36,
+    "losses": 64
+  },
+  "12": {
+    "wins": 85,
+    "draws": 24,
+    "losses": 53
+  },
+  "13": {
+    "wins": 77,
+    "draws": 39,
+    "losses": 46
+  },
+  "14": {
+    "wins": 61,
+    "draws": 35,
+    "losses": 66
+  },
+  "15": {
+    "wins": 83,
+    "draws": 13,
+    "losses": 66
+  },
+  "16": {
+    "wins": 92,
+    "draws": 26,
+    "losses": 44
+  },
+  "17": {
+    "wins": 47,
+    "draws": 25,
+    "losses": 90
+  },
+  "18": {
+    "wins": 86,
+    "draws": 32,
+    "losses": 44
+  },
+  "19": {
+    "wins": 26,
+    "draws": 78,
+    "losses": 58
+  },
+  "20": {
+    "wins": 58,
+    "draws": 50,
+    "losses": 54
+  }
+}
